@@ -19,7 +19,7 @@ namespace DataParser
             //Manager.YahooInfo();
 
             Manager.SecInfo();
-
+            //changes are here ------
             //ExcelConverter.ToCSV();
             //string mk = GetMarketCap(Symbols.CYTR.ToString());
             //Console.WriteLine(mk);
