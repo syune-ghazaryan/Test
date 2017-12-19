@@ -31,7 +31,7 @@ namespace DataParser
                 Console.WriteLine(xlWb.Path);
                 Worksheet xlSheet = xlWb.Sheets[1] as Worksheet;
                 ExcelConverter.WriteArray(xlSheet, list);
-                xlWb.SaveAs(@"C:\Users\User\source\repos\DataParser\DataParser\bin\Debug\excel\" + $"WithManagement.xlsx");
+                xlWb.SaveAs(@"C:\Users\User\source\repos\DataParser\DataParser\bin\Debug\excel\" + $"rss.xlsx");
                 xlWb.Close();
                 xlApp.Quit();
                 Console.WriteLine("Ready!");
@@ -79,7 +79,7 @@ namespace DataParser
                                   .Cast<Symbols>()
                                   .ToList();
            
-            for (int i = 0; i <symbols.Count; i++)
+            for (int i = 0; i <3; i++)
             {
                 SecData Data = new SecData
                 {
@@ -87,16 +87,18 @@ namespace DataParser
                 };
                 USSecReader secReader = new USSecReader(symbols[i].ToString());
                 YahooReader yr = new YahooReader();
-
                 string form1 = "10-k";
+
                 string path = Environment.CurrentDirectory + $"\\Files\\{symbols[i]}";
+               
+               
                 string filePath = path + "\\" + symbols[i] + "_" + form1 + ".htm";
                 if (!File.Exists(filePath))
                 {
                     string link10k = secReader.Get10KLink(symbols[i].ToString());
                     if (link10k != "")
                     {
-                        secReader.DownloadFile(symbols[i].ToString(), link10k, form1, path);
+                        secReader.DownloadFile(symbols[i].ToString(), link10k, form1, path,".htm");
                         Data.LinkTo10K = filePath;
                     }
                 }
@@ -106,12 +108,13 @@ namespace DataParser
                 }
                 string form2 = "14_def_a";
                 string filePath1 = path + "\\" + symbols[i] + "_" + form2 + ".htm";
+               
                 if (!File.Exists(filePath1))
                 {
                     string linkdef14a = secReader.Get14DEFALink(symbols[i].ToString());
                     if (linkdef14a != "")
                     {
-                        secReader.DownloadFile(symbols[i].ToString(), linkdef14a, form2, path);
+                        secReader.DownloadFile(symbols[i].ToString(), linkdef14a, form2, path,".htm");
                         Data.LinkToDef14A = filePath1;
                     }
                 }
@@ -156,6 +159,34 @@ namespace DataParser
             return list;
         }
 
+        public static void DownloadRss()
+        {
+            List<SecData> list = new List<SecData>();
+            List<Symbols> symbols = Enum.GetValues(typeof(Symbols))
+                                  .Cast<Symbols>()
+                                  .ToList();
+
+            for(int i=0;i<symbols.Count;i++)
+            {
+                SecData Data = new SecData
+                {
+                    Symbol = symbols[i].ToString()
+                };
+                USSecReader secReader = new USSecReader(symbols[i].ToString());
+
+
+                string path = Environment.CurrentDirectory + $"\\Files\\{symbols[i]}";
+                string form = "rss";
+                string filePath = path + "\\" + symbols[i] + "_" + form + ".rss";
+                if (!File.Exists(filePath))
+                {
+                    string rssLink = secReader.GetRss(symbols[i].ToString());
+                    secReader.DownloadFile(symbols[i].ToString(), rssLink,form, path, ".rss");
+                    Console.WriteLine(symbols[i]+" " );
+                }
+            }
+         
+        }
 
     }
 }

@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <company-info>
+      <addresses>
+        <address type="mailing">
+          <city>MILWAUKEE</city>
+          <state>WI</state>
+          <street1>6555 GOOD HOPE RD</street1>
+          <zip>53223</zip>
+        </address>
+        <address type="business">
+          <city>MILWAUKEE</city>
+          <phone>4143586600</phone>
+          <state>WI</state>
+          <street1>6555 W GOOD HOPE RD</street1>
+          <street2>P O BOX 571</street2>
+          <zip>53201-0571</zip>
+        </address>
+      </addresses>
+      <assigned-sic>3990</assigned-sic>
+      <assigned-sic-desc>MISCELLANEOUS MANUFACTURING INDUSTRIES</assigned-sic-desc>
+      <assigned-sic-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;SIC=3990&amp;owner=exclude&amp;count=40</assigned-sic-href>
+      <assitant-director>6</assitant-director>
+      <cik>0000746598</cik>
+      <cik-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000746598&amp;owner=exclude&amp;count=40</cik-href>
+      <conformed-name>BRADY CORP</conformed-name>
+      <fiscal-year-end>0731</fiscal-year-end>
+      <formerly-names count="1">
+        <names>
+          <date>1998-06-03</date>
+          <name>BRADY W H CO</name>
+        </names>
+      </formerly-names>
+      <state-location>WI</state-location>
+      <state-location-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;State=WI&amp;owner=exclude&amp;count=40</state-location-href>
+      <state-of-incorporation>WI</state-of-incorporation>
+    </company-info>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-Q" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000153</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-16</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000153/0000746598-17-000153-index.htm</filing-href>
+        <filing-type>10-Q</filing-type>
+        <film-number>171206657</film-number>
+        <form-name>Quarterly report [Sections 13 or 15(d)]</form-name>
+        <size>4 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-17-000153&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000153</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000153/0000746598-17-000153-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000153 &lt;b&gt;Size:&lt;/b&gt; 4 MB</summary>
+      <title>10-Q  - Quarterly report [Sections 13 or 15(d)]</title>
+      <updated>2017-11-16T07:25:46-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000152</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-16</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000152/0000746598-17-000152-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>171206655</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 5.07, 7.01and9.01</items-desc>
+        <size>2 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000152</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000152/0000746598-17-000152-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000152 &lt;b&gt;Size:&lt;/b&gt; 2 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 5.07: Submission of Matters to a Vote of Security Holders&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2017-11-16T07:21:51-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000146</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-08</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000146/0000746598-17-000146-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>171187505</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>item 5.02</items-desc>
+        <size>25 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000146</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000146/0000746598-17-000146-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-08 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000146 &lt;b&gt;Size:&lt;/b&gt; 25 KB&lt;br&gt;Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers</summary>
+      <title>8-K  - Current report</title>
+      <updated>2017-11-08T17:15:17-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="S-3ASR" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000084</accession-nunber>
+        <act>33</act>
+        <file-number>333-220442</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-220442&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000084/0000746598-17-000084-index.htm</filing-href>
+        <filing-type>S-3ASR</filing-type>
+        <film-number>171082687</film-number>
+        <form-name>Automatic shelf registration statement of securities of well-known seasoned issuers</form-name>
+        <size>332 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000084</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000084/0000746598-17-000084-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000084 &lt;b&gt;Size:&lt;/b&gt; 332 KB</summary>
+      <title>S-3ASR  - Automatic shelf registration statement of securities of well-known seasoned issuers</title>
+      <updated>2017-09-13T12:15:30-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000082</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000082/0000746598-17-000082-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>171082661</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>14 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-17-000082&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000082</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000082/0000746598-17-000082-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000082 &lt;b&gt;Size:&lt;/b&gt; 14 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2017-09-13T12:06:56-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000076</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-07</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000076/0000746598-17-000076-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>171072878</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 7.01, 8.01and9.01</items-desc>
+        <size>3 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000076</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000076/0000746598-17-000076-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-07 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000076 &lt;b&gt;Size:&lt;/b&gt; 3 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 8.01: Other Events&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2017-09-07T07:42:56-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="11-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000047</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-06-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000047/0000746598-17-000047-index.htm</filing-href>
+        <filing-type>11-K</filing-type>
+        <film-number>17908771</film-number>
+        <form-name>Annual report of employee stock purchase, savings and similar plans</form-name>
+        <size>243 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000047</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000047/0000746598-17-000047-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-06-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000047 &lt;b&gt;Size:&lt;/b&gt; 243 KB</summary>
+      <title>11-K  - Annual report of employee stock purchase, savings and similar plans</title>
+      <updated>2017-06-13T15:40:12-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SD" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000044</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-05-30</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000044/0000746598-17-000044-index.htm</filing-href>
+        <filing-type>SD</filing-type>
+        <film-number>17876017</film-number>
+        <size>513 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000044</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000044/0000746598-17-000044-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-05-30 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000044 &lt;b&gt;Size:&lt;/b&gt; 513 KB</summary>
+      <title>SD  - </title>
+      <updated>2017-05-30T11:01:52-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-Q" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000042</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-05-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000042/0000746598-17-000042-index.htm</filing-href>
+        <filing-type>10-Q</filing-type>
+        <film-number>17868260</film-number>
+        <form-name>Quarterly report [Sections 13 or 15(d)]</form-name>
+        <size>5 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-17-000042&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000042</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000042/0000746598-17-000042-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-05-25 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000042 &lt;b&gt;Size:&lt;/b&gt; 5 MB</summary>
+      <title>10-Q  - Quarterly report [Sections 13 or 15(d)]</title>
+      <updated>2017-05-25T07:13:20-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000041</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-05-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000041/0000746598-17-000041-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>17868258</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 7.01and9.01</items-desc>
+        <size>3 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000041</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000041/0000746598-17-000041-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-05-25 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000041 &lt;b&gt;Size:&lt;/b&gt; 3 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2017-05-25T07:09:27-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13G/A" />
+      <content type="text/xml">
+        <accession-nunber>0000932471-17-003417</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-52167</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-52167&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-03-10</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000093247117003417/0000932471-17-003417-index.htm</filing-href>
+        <filing-type>SC 13G/A</filing-type>
+        <film-number>17680274</film-number>
+        <form-name>Statement of acquisition of beneficial ownership by individuals</form-name>
+        <size>48 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000932471-17-003417</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000093247117003417/0000932471-17-003417-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-03-10 &lt;b&gt;AccNo:&lt;/b&gt; 0000932471-17-003417 &lt;b&gt;Size:&lt;/b&gt; 48 KB</summary>
+      <title>SC 13G/A [Amend]  - Statement of acquisition of beneficial ownership by individuals</title>
+      <updated>2017-03-10T08:33:36-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="UPLOAD" />
+      <content type="text/xml">
+        <accession-nunber>0000000000-17-007327</accession-nunber>
+        <filing-date>2017-03-06</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000000000017007327/0000000000-17-007327-index.htm</filing-href>
+        <filing-type>UPLOAD</filing-type>
+        <form-name>SEC-generated letter</form-name>
+        <paper_filing>[Cover]</paper_filing>
+        <size>125 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000000000-17-007327</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000000000017007327/0000000000-17-007327-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-03-06 &lt;b&gt;AccNo:&lt;/b&gt; 0000000000-17-007327 &lt;b&gt;Size:&lt;/b&gt; 125 KB</summary>
+      <title>UPLOAD [Cover] - SEC-generated letter</title>
+      <updated>2017-03-06T13:09:16-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-Q" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000021</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-02-23</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000021/0000746598-17-000021-index.htm</filing-href>
+        <filing-type>10-Q</filing-type>
+        <film-number>17630766</film-number>
+        <form-name>Quarterly report [Sections 13 or 15(d)]</form-name>
+        <size>5 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-17-000021&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000021</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000021/0000746598-17-000021-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-23 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000021 &lt;b&gt;Size:&lt;/b&gt; 5 MB</summary>
+      <title>10-Q  - Quarterly report [Sections 13 or 15(d)]</title>
+      <updated>2017-02-23T07:48:52-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000019</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-02-23</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000019/0000746598-17-000019-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>17630732</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 7.01and9.01</items-desc>
+        <size>3 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000019</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000019/0000746598-17-000019-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-23 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000019 &lt;b&gt;Size:&lt;/b&gt; 3 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2017-02-23T07:18:28-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="CORRESP" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-17-000013</accession-nunber>
+        <filing-date>2017-02-21</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659817000013/0000746598-17-000013-index.htm</filing-href>
+        <filing-type>CORRESP</filing-type>
+        <form-name>Correspondence</form-name>
+        <paper_filing>[Cover]</paper_filing>
+        <size>58 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-17-000013</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659817000013/0000746598-17-000013-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-21 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-17-000013 &lt;b&gt;Size:&lt;/b&gt; 58 KB</summary>
+      <title>CORRESP [Cover] - Correspondence</title>
+      <updated>2017-02-21T15:43:12-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13G/A" />
+      <content type="text/xml">
+        <accession-nunber>0000936753-17-000112</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-52167</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-52167&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-02-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000093675317000112/0000936753-17-000112-index.htm</filing-href>
+        <filing-type>SC 13G/A</filing-type>
+        <film-number>17606295</film-number>
+        <form-name>Statement of acquisition of beneficial ownership by individuals</form-name>
+        <size>8 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000936753-17-000112</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000093675317000112/0000936753-17-000112-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-14 &lt;b&gt;AccNo:&lt;/b&gt; 0000936753-17-000112 &lt;b&gt;Size:&lt;/b&gt; 8 KB</summary>
+      <title>SC 13G/A [Amend]  - Statement of acquisition of beneficial ownership by individuals</title>
+      <updated>2017-02-14T13:16:25-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="UPLOAD" />
+      <content type="text/xml">
+        <accession-nunber>0000000000-17-005013</accession-nunber>
+        <filing-date>2017-02-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000000000017005013/0000000000-17-005013-index.htm</filing-href>
+        <filing-type>UPLOAD</filing-type>
+        <form-name>SEC-generated letter</form-name>
+        <paper_filing>[Cover]</paper_filing>
+        <size>134 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000000000-17-005013</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000000000017005013/0000000000-17-005013-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000000000-17-005013 &lt;b&gt;Size:&lt;/b&gt; 134 KB</summary>
+      <title>UPLOAD [Cover] - SEC-generated letter</title>
+      <updated>2017-02-13T14:47:32-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13G/A" />
+      <content type="text/xml">
+        <accession-nunber>0000932471-17-001794</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-52167</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-52167&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-02-10</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000093247117001794/0000932471-17-001794-index.htm</filing-href>
+        <filing-type>SC 13G/A</filing-type>
+        <film-number>17591767</film-number>
+        <form-name>Statement of acquisition of beneficial ownership by individuals</form-name>
+        <size>36 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000932471-17-001794</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000093247117001794/0000932471-17-001794-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-10 &lt;b&gt;AccNo:&lt;/b&gt; 0000932471-17-001794 &lt;b&gt;Size:&lt;/b&gt; 36 KB</summary>
+      <title>SC 13G/A [Amend]  - Statement of acquisition of beneficial ownership by individuals</title>
+      <updated>2017-02-10T13:29:58-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-Q" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000347</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-11-16</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000347/0000746598-16-000347-index.htm</filing-href>
+        <filing-type>10-Q</filing-type>
+        <film-number>162001327</film-number>
+        <form-name>Quarterly report [Sections 13 or 15(d)]</form-name>
+        <size>4 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-16-000347&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000347</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000347/0000746598-16-000347-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-11-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000347 &lt;b&gt;Size:&lt;/b&gt; 4 MB</summary>
+      <title>10-Q  - Quarterly report [Sections 13 or 15(d)]</title>
+      <updated>2016-11-16T07:21:36-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000345</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-11-16</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000345/0000746598-16-000345-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>162001325</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 7.01and9.01</items-desc>
+        <size>3 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000345</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000345/0000746598-16-000345-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-11-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000345 &lt;b&gt;Size:&lt;/b&gt; 3 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2016-11-16T07:13:34-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000335</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-11-10</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000335/0000746598-16-000335-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>161986030</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 5.02 and 5.07</items-desc>
+        <size>31 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000335</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000335/0000746598-16-000335-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-11-10 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000335 &lt;b&gt;Size:&lt;/b&gt; 31 KB&lt;br&gt;Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers&lt;br&gt;Item 5.07: Submission of Matters to a Vote of Security Holders</summary>
+      <title>8-K  - Current report</title>
+      <updated>2016-11-10T07:55:17-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000273</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-09-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000273/0000746598-16-000273-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>161887568</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>14 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-16-000273&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000273</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000273/0000746598-16-000273-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-09-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000273 &lt;b&gt;Size:&lt;/b&gt; 14 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2016-09-15T16:45:12-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000270</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-09-09</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000270/0000746598-16-000270-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>161877725</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 7.01, 8.01and9.01</items-desc>
+        <size>4 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000270</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000270/0000746598-16-000270-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-09-09 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000270 &lt;b&gt;Size:&lt;/b&gt; 4 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 8.01: Other Events&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2016-09-09T07:21:33-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="S-8" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000267</accession-nunber>
+        <act>33</act>
+        <file-number>333-212625</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-212625&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-07-22</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000267/0000746598-16-000267-index.htm</filing-href>
+        <filing-type>S-8</filing-type>
+        <film-number>161778706</film-number>
+        <form-name>Securities to be offered to employees in employee benefit plans</form-name>
+        <size>90 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000267</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000267/0000746598-16-000267-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-07-22 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000267 &lt;b&gt;Size:&lt;/b&gt; 90 KB</summary>
+      <title>S-8  - Securities to be offered to employees in employee benefit plans</title>
+      <updated>2016-07-22T10:11:47-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000259</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-07-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000259/0000746598-16-000259-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>161767414</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 5.02 and 9.01</items-desc>
+        <size>212 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000259</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000259/0000746598-16-000259-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-07-14 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000259 &lt;b&gt;Size:&lt;/b&gt; 212 KB&lt;br&gt;Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2016-07-14T15:38:46-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="11-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000249</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-06-16</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000249/0000746598-16-000249-index.htm</filing-href>
+        <filing-type>11-K</filing-type>
+        <film-number>161717253</film-number>
+        <form-name>Annual report of employee stock purchase, savings and similar plans</form-name>
+        <size>325 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000249</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000249/0000746598-16-000249-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-06-16 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000249 &lt;b&gt;Size:&lt;/b&gt; 325 KB</summary>
+      <title>11-K  - Annual report of employee stock purchase, savings and similar plans</title>
+      <updated>2016-06-16T13:58:04-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000242</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-05-27</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000242/0000746598-16-000242-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>161681106</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 5.02, 5.07and9.01</items-desc>
+        <size>155 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000242</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000242/0000746598-16-000242-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-05-27 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000242 &lt;b&gt;Size:&lt;/b&gt; 155 KB&lt;br&gt;Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers&lt;br&gt;Item 5.07: Submission of Matters to a Vote of Security Holders&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2016-05-27T12:20:07-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SD" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000238</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-05-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000238/0000746598-16-000238-index.htm</filing-href>
+        <filing-type>SD</filing-type>
+        <film-number>161673890</film-number>
+        <size>477 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000238</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000238/0000746598-16-000238-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-05-25 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000238 &lt;b&gt;Size:&lt;/b&gt; 477 KB</summary>
+      <title>SD  - </title>
+      <updated>2016-05-25T11:35:54-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-Q" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000235</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-05-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000235/0000746598-16-000235-index.htm</filing-href>
+        <filing-type>10-Q</filing-type>
+        <film-number>161661953</film-number>
+        <form-name>Quarterly report [Sections 13 or 15(d)]</form-name>
+        <size>6 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-16-000235&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000235</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000235/0000746598-16-000235-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-05-19 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000235 &lt;b&gt;Size:&lt;/b&gt; 6 MB</summary>
+      <title>10-Q  - Quarterly report [Sections 13 or 15(d)]</title>
+      <updated>2016-05-19T07:53:17-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000233</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-05-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000233/0000746598-16-000233-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>161661944</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 7.01and9.01</items-desc>
+        <size>4 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000233</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000233/0000746598-16-000233-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-05-19 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000233 &lt;b&gt;Size:&lt;/b&gt; 4 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2016-05-19T07:45:26-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-Q" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000223</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-02-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000223/0000746598-16-000223-index.htm</filing-href>
+        <filing-type>10-Q</filing-type>
+        <film-number>161440121</film-number>
+        <form-name>Quarterly report [Sections 13 or 15(d)]</form-name>
+        <size>6 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-16-000223&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000223</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000223/0000746598-16-000223-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-02-19 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000223 &lt;b&gt;Size:&lt;/b&gt; 6 MB</summary>
+      <title>10-Q  - Quarterly report [Sections 13 or 15(d)]</title>
+      <updated>2016-02-19T07:24:39-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-16-000221</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-02-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659816000221/0000746598-16-000221-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>161440104</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 7.01, 8.01and9.01</items-desc>
+        <size>3 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-16-000221</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659816000221/0000746598-16-000221-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-02-19 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-16-000221 &lt;b&gt;Size:&lt;/b&gt; 3 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 8.01: Other Events&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2016-02-19T07:16:03-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13G/A" />
+      <content type="text/xml">
+        <accession-nunber>0000936753-16-000254</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-52167</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-52167&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-02-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000093675316000254/0000936753-16-000254-index.htm</filing-href>
+        <filing-type>SC 13G/A</filing-type>
+        <film-number>161414384</film-number>
+        <form-name>Statement of acquisition of beneficial ownership by individuals</form-name>
+        <size>8 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000936753-16-000254</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000093675316000254/0000936753-16-000254-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-02-12 &lt;b&gt;AccNo:&lt;/b&gt; 0000936753-16-000254 &lt;b&gt;Size:&lt;/b&gt; 8 KB</summary>
+      <title>SC 13G/A [Amend]  - Statement of acquisition of beneficial ownership by individuals</title>
+      <updated>2016-02-12T08:41:10-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13G/A" />
+      <content type="text/xml">
+        <accession-nunber>0000932471-16-011032</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-52167</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-52167&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-02-10</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000093247116011032/0000932471-16-011032-index.htm</filing-href>
+        <filing-type>SC 13G/A</filing-type>
+        <film-number>161403326</film-number>
+        <form-name>Statement of acquisition of beneficial ownership by individuals</form-name>
+        <size>39 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000932471-16-011032</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000093247116011032/0000932471-16-011032-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-02-10 &lt;b&gt;AccNo:&lt;/b&gt; 0000932471-16-011032 &lt;b&gt;Size:&lt;/b&gt; 39 KB</summary>
+      <title>SC 13G/A [Amend]  - Statement of acquisition of beneficial ownership by individuals</title>
+      <updated>2016-02-10T10:30:55-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13G/A" />
+      <content type="text/xml">
+        <accession-nunber>0000215457-16-002141</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-52167</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-52167&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-01-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000021545716002141/0000215457-16-002141-index.htm</filing-href>
+        <filing-type>SC 13G/A</filing-type>
+        <film-number>161358356</film-number>
+        <form-name>Statement of acquisition of beneficial ownership by individuals</form-name>
+        <size>11 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000215457-16-002141</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000021545716002141/0000215457-16-002141-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-01-25 &lt;b&gt;AccNo:&lt;/b&gt; 0000215457-16-002141 &lt;b&gt;Size:&lt;/b&gt; 11 KB</summary>
+      <title>SC 13G/A [Amend]  - Statement of acquisition of beneficial ownership by individuals</title>
+      <updated>2016-01-25T13:47:05-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-Q" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-15-000199</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2015-11-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659815000199/0000746598-15-000199-index.htm</filing-href>
+        <filing-type>10-Q</filing-type>
+        <film-number>151242375</film-number>
+        <form-name>Quarterly report [Sections 13 or 15(d)]</form-name>
+        <size>5 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-15-000199&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-15-000199</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659815000199/0000746598-15-000199-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2015-11-19 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-15-000199 &lt;b&gt;Size:&lt;/b&gt; 5 MB</summary>
+      <title>10-Q  - Quarterly report [Sections 13 or 15(d)]</title>
+      <updated>2015-11-19T07:34:17-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-15-000197</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2015-11-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659815000197/0000746598-15-000197-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>151242371</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 5.07, 7.01, 8.01and9.01</items-desc>
+        <size>3 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-15-000197</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659815000197/0000746598-15-000197-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2015-11-19 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-15-000197 &lt;b&gt;Size:&lt;/b&gt; 3 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 5.07: Submission of Matters to a Vote of Security Holders&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 8.01: Other Events&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2015-11-19T07:28:24-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-15-000145</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2015-09-25</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659815000145/0000746598-15-000145-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>151125736</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 1.01, 1.02, 2.03and9.01</items-desc>
+        <size>1 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-15-000145</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659815000145/0000746598-15-000145-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2015-09-25 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-15-000145 &lt;b&gt;Size:&lt;/b&gt; 1 MB&lt;br&gt;Item 1.01: Entry into a Material Definitive Agreement&lt;br&gt;Item 1.02: Termination of a Material Definitive Agreement&lt;br&gt;Item 2.03: Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2015-09-25T17:09:10-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="10-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-15-000132</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2015-09-21</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659815000132/0000746598-15-000132-index.htm</filing-href>
+        <filing-type>10-K</filing-type>
+        <film-number>151118047</film-number>
+        <form-name>Annual report [Section 13 and 15(d), not S-K Item 405]</form-name>
+        <size>16 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=746598&amp;accession_number=0000746598-15-000132&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-15-000132</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659815000132/0000746598-15-000132-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2015-09-21 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-15-000132 &lt;b&gt;Size:&lt;/b&gt; 16 MB</summary>
+      <title>10-K  - Annual report [Section 13 and 15(d), not S-K Item 405]</title>
+      <updated>2015-09-21T17:24:13-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="8-K" />
+      <content type="text/xml">
+        <accession-nunber>0000746598-15-000130</accession-nunber>
+        <act>34</act>
+        <file-number>001-14959</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-14959&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2015-09-11</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/746598/000074659815000130/0000746598-15-000130-index.htm</filing-href>
+        <filing-type>8-K</filing-type>
+        <film-number>151102330</film-number>
+        <form-name>Current report</form-name>
+        <items-desc>items 2.02, 2.06, 5.02, 7.01, 8.01and9.01</items-desc>
+        <size>4 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000746598-15-000130</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/746598/000074659815000130/0000746598-15-000130-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2015-09-11 &lt;b&gt;AccNo:&lt;/b&gt; 0000746598-15-000130 &lt;b&gt;Size:&lt;/b&gt; 4 MB&lt;br&gt;Item 2.02: Results of Operations and Financial Condition&lt;br&gt;Item 2.06: Material Impairments&lt;br&gt;Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers&lt;br&gt;Item 7.01: Regulation FD Disclosure&lt;br&gt;Item 8.01: Other Events&lt;br&gt;Item 9.01: Financial Statements and Exhibits</summary>
+      <title>8-K  - Current report</title>
+      <updated>2015-09-11T08:30:44-04:00</updated>
+    </entry>
+    <id>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000746598</id>
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000746598&amp;owner=exclude&amp;start=0&amp;count=40" rel="alternate" type="text/html" />
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000746598&amp;owner=exclude&amp;start=0&amp;count=40&amp;output=atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000746598&amp;type=&amp;datea=&amp;dateb=&amp;owner=exclude&amp;count=40&amp;output=atom&amp;start=40" rel="next" type="application/atom+xml" />
+    <title>BRADY CORP  (0000746598)</title>
+    <updated>2017-12-19T09:21:11-05:00</updated>
+  </feed>

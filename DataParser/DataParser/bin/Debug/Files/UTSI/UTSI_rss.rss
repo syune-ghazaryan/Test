@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <company-info>
+      <addresses>
+        <address type="mailing">
+          <city>BEIJING</city>
+          <state>F4</state>
+          <street1>52-2 BLDG. BDA INTL ENTERPRISE AVE</street1>
+          <street2>NO. 2 JINGYUAN NORTH ST. DAXING DISTRICT</street2>
+          <zip>100176</zip>
+        </address>
+        <address type="business">
+          <city>BEIJING</city>
+          <phone>86 (10) 85205588</phone>
+          <state>F4</state>
+          <street1>52-2 BLDG. BDA INTL ENTERPRISE AVE</street1>
+          <street2>NO. 2 JINGYUAN NORTH ST. DAXING DISTRICT</street2>
+          <zip>100176</zip>
+        </address>
+      </addresses>
+      <assigned-sic>3669</assigned-sic>
+      <assigned-sic-desc>COMMUNICATIONS EQUIPMENT, NEC</assigned-sic-desc>
+      <assigned-sic-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;SIC=3669&amp;owner=exclude&amp;count=40</assigned-sic-href>
+      <assitant-director>11</assitant-director>
+      <cik>0001030471</cik>
+      <cik-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001030471&amp;owner=exclude&amp;count=40</cik-href>
+      <conformed-name>UTSTARCOM HOLDINGS CORP.</conformed-name>
+      <fiscal-year-end>1231</fiscal-year-end>
+      <formerly-names count="1">
+        <names>
+          <date>2011-07-08</date>
+          <name>UTSTARCOM INC</name>
+        </names>
+      </formerly-names>
+      <state-location>F4</state-location>
+      <state-location-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;State=F4&amp;owner=exclude&amp;count=40</state-location-href>
+      <state-of-incorporation>E9</state-of-incorporation>
+    </company-info>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D" />
+      <content type="text/xml">
+        <accession-nunber>0000947871-17-000991</accession-nunber>
+        <act>34</act>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-08</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000094787117000991/0000947871-17-000991-index.htm</filing-href>
+        <filing-type>SC 13D</filing-type>
+        <film-number>171247476</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>732 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000947871-17-000991</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000094787117000991/0000947871-17-000991-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-08 &lt;b&gt;AccNo:&lt;/b&gt; 0000947871-17-000991 &lt;b&gt;Size:&lt;/b&gt; 732 KB</summary>
+      <title>SC 13D  - General statement of acquisition of beneficial ownership</title>
+      <updated>2017-12-08T16:32:22-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-17-000790</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-04</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905617000790/0001019056-17-000790-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>171237708</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>116 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-17-000790</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905617000790/0001019056-17-000790-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-04 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-17-000790 &lt;b&gt;Size:&lt;/b&gt; 116 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2017-12-04T17:00:21-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-070286</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-24</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917070286/0001104659-17-070286-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171220991</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>29 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-070286</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917070286/0001104659-17-070286-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-070286 &lt;b&gt;Size:&lt;/b&gt; 29 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-24T06:07:52-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-069734</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-21</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917069734/0001104659-17-069734-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171215343</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>372 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-069734</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917069734/0001104659-17-069734-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-069734 &lt;b&gt;Size:&lt;/b&gt; 372 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-21T06:06:45-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="20-F" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-068513</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917068513/0001104659-17-068513-index.htm</filing-href>
+        <filing-type>20-F</filing-type>
+        <film-number>171201818</film-number>
+        <form-name>Annual and transition report of foreign private issuers [Sections 13 or 15(d)]</form-name>
+        <size>17 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=1030471&amp;accession_number=0001104659-17-068513&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-068513</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917068513/0001104659-17-068513-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-14 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-068513 &lt;b&gt;Size:&lt;/b&gt; 17 MB</summary>
+      <title>20-F  - Annual and transition report of foreign private issuers [Sections 13 or 15(d)]</title>
+      <updated>2017-11-14T16:20:12-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-063862</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-26</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917063862/0001104659-17-063862-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171154698</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>26 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-063862</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917063862/0001104659-17-063862-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-063862 &lt;b&gt;Size:&lt;/b&gt; 26 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-10-26T07:00:54-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001193125-17-316257</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-23</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000119312517316257/0001193125-17-316257-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>171148634</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>172 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-17-316257</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000119312517316257/0001193125-17-316257-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-17-316257 &lt;b&gt;Size:&lt;/b&gt; 172 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2017-10-23T12:01:32-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-062433</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-17</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917062433/0001104659-17-062433-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171139837</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>279 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-062433</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917062433/0001104659-17-062433-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-062433 &lt;b&gt;Size:&lt;/b&gt; 279 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-10-17T07:00:48-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-17-000711</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-11</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905617000711/0001019056-17-000711-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>171131747</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>156 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-17-000711</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905617000711/0001019056-17-000711-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-11 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-17-000711 &lt;b&gt;Size:&lt;/b&gt; 156 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2017-10-11T07:16:07-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-17-000693</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905617000693/0001019056-17-000693-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>171082327</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>115 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-17-000693</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905617000693/0001019056-17-000693-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-13 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-17-000693 &lt;b&gt;Size:&lt;/b&gt; 115 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2017-09-13T09:17:00-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-056846</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917056846/0001104659-17-056846-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171082189</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>32 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-056846</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917056846/0001104659-17-056846-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-13 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-056846 &lt;b&gt;Size:&lt;/b&gt; 32 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-13T06:01:09-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-17-000571</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-06-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905617000571/0001019056-17-000571-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>17917410</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>123 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-17-000571</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905617000571/0001019056-17-000571-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-06-19 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-17-000571 &lt;b&gt;Size:&lt;/b&gt; 123 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2017-06-19T06:01:50-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-17-000557</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-06-09</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905617000557/0001019056-17-000557-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>17903206</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>161 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-17-000557</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905617000557/0001019056-17-000557-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-06-09 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-17-000557 &lt;b&gt;Size:&lt;/b&gt; 161 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2017-06-09T16:21:50-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-034712</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-05-24</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917034712/0001104659-17-034712-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17865457</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>28 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-034712</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917034712/0001104659-17-034712-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-05-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-034712 &lt;b&gt;Size:&lt;/b&gt; 28 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-05-24T06:32:14-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="NT 20-F" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-027959</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-04-28</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917027959/0001104659-17-027959-index.htm</filing-href>
+        <filing-type>NT 20-F</filing-type>
+        <film-number>17796719</film-number>
+        <form-name>Notification of inability to timely file Form 20-F</form-name>
+        <size>59 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-027959</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917027959/0001104659-17-027959-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-04-28 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-027959 &lt;b&gt;Size:&lt;/b&gt; 59 KB</summary>
+      <title>NT 20-F  - Notification of inability to timely file Form 20-F</title>
+      <updated>2017-04-28T17:00:34-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-025021</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-04-21</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917025021/0001104659-17-025021-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17774155</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>28 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-025021</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917025021/0001104659-17-025021-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-04-21 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-025021 &lt;b&gt;Size:&lt;/b&gt; 28 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-04-21T06:11:59-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-020623</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-03-31</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917020623/0001104659-17-020623-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17729154</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>68 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-020623</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917020623/0001104659-17-020623-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-03-31 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-020623 &lt;b&gt;Size:&lt;/b&gt; 68 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-03-31T12:37:27-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001193125-17-105000</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-03-31</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000119312517105000/0001193125-17-105000-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>17727871</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>287 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-17-105000</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000119312517105000/0001193125-17-105000-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-03-31 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-17-105000 &lt;b&gt;Size:&lt;/b&gt; 287 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2017-03-31T06:09:03-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001104659-17-015723</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-03-10</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000110465917015723/0001104659-17-015723-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17680719</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>469 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001104659-17-015723</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000110465917015723/0001104659-17-015723-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-03-10 &lt;b&gt;AccNo:&lt;/b&gt; 0001104659-17-015723 &lt;b&gt;Size:&lt;/b&gt; 469 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-03-10T11:06:12-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-17-010773</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-02-24</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420417010773/0001144204-17-010773-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17634650</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>38 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-17-010773</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420417010773/0001144204-17-010773-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-24 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-17-010773 &lt;b&gt;Size:&lt;/b&gt; 38 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-02-24T06:01:21-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-17-006295</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-02-07</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420417006295/0001144204-17-006295-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17576974</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>31 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-17-006295</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420417006295/0001144204-17-006295-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-02-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-17-006295 &lt;b&gt;Size:&lt;/b&gt; 31 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-02-06T20:13:28-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-17-002810</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-01-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420417002810/0001144204-17-002810-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17534770</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>24 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-17-002810</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420417002810/0001144204-17-002810-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-01-19 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-17-002810 &lt;b&gt;Size:&lt;/b&gt; 24 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-01-19T06:01:01-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001383838-16-000035</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-11-10</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000138383816000035/0001383838-16-000035-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>161989196</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>8 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001383838-16-000035</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000138383816000035/0001383838-16-000035-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-11-10 &lt;b&gt;AccNo:&lt;/b&gt; 0001383838-16-000035 &lt;b&gt;Size:&lt;/b&gt; 8 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2016-11-10T17:21:52-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-16-001628</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-11-08</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905616001628/0001019056-16-001628-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>161981457</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>91 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-16-001628</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905616001628/0001019056-16-001628-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-11-08 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-16-001628 &lt;b&gt;Size:&lt;/b&gt; 91 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2016-11-08T16:15:37-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-132261</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-11-08</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416132261/0001144204-16-132261-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>161980054</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>230 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-132261</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416132261/0001144204-16-132261-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-11-08 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-132261 &lt;b&gt;Size:&lt;/b&gt; 230 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2016-11-08T08:36:55-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-132247</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-11-08</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416132247/0001144204-16-132247-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>161979892</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>20 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-132247</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416132247/0001144204-16-132247-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-11-08 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-132247 &lt;b&gt;Size:&lt;/b&gt; 20 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2016-11-08T06:15:13-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-132242</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-11-08</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416132242/0001144204-16-132242-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>161979887</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>20 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-132242</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416132242/0001144204-16-132242-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-11-08 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-132242 &lt;b&gt;Size:&lt;/b&gt; 20 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2016-11-08T06:10:14-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-16-001543</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-09-07</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905616001543/0001019056-16-001543-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>161873623</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>130 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-16-001543</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905616001543/0001019056-16-001543-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-09-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-16-001543 &lt;b&gt;Size:&lt;/b&gt; 130 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2016-09-07T16:15:32-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-118480</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-08-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416118480/0001144204-16-118480-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>161826220</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>224 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-118480</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416118480/0001144204-16-118480-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-08-12 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-118480 &lt;b&gt;Size:&lt;/b&gt; 224 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2016-08-12T07:37:20-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-16-001394</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-07-06</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905616001394/0001019056-16-001394-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>161753860</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>144 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-16-001394</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905616001394/0001019056-16-001394-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-07-06 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-16-001394 &lt;b&gt;Size:&lt;/b&gt; 144 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2016-07-06T16:15:16-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="20-F/A" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-110829</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-06-30</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416110829/0001144204-16-110829-index.htm</filing-href>
+        <filing-type>20-F/A</filing-type>
+        <film-number>161743206</film-number>
+        <form-name>Annual and transition report of foreign private issuers [Sections 13 or 15(d)]</form-name>
+        <size>582 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-110829</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416110829/0001144204-16-110829-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-06-30 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-110829 &lt;b&gt;Size:&lt;/b&gt; 582 KB</summary>
+      <title>20-F/A [Amend]  - Annual and transition report of foreign private issuers [Sections 13 or 15(d)]</title>
+      <updated>2016-06-30T16:06:59-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-102879</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-05-17</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416102879/0001144204-16-102879-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>161655987</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>144 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-102879</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416102879/0001144204-16-102879-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-05-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-102879 &lt;b&gt;Size:&lt;/b&gt; 144 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2016-05-16T21:45:08-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-16-001297</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-05-05</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905616001297/0001019056-16-001297-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>161625041</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>430 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-16-001297</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905616001297/0001019056-16-001297-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-05-05 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-16-001297 &lt;b&gt;Size:&lt;/b&gt; 430 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2016-05-05T17:20:44-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="20-F" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-095805</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-04-22</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416095805/0001144204-16-095805-index.htm</filing-href>
+        <filing-type>20-F</filing-type>
+        <film-number>161586792</film-number>
+        <form-name>Annual and transition report of foreign private issuers [Sections 13 or 15(d)]</form-name>
+        <size>11 MB</size>
+        <xbrl_href>http://www.sec.gov/cgi-bin/viewer?action=view&amp;cik=1030471&amp;accession_number=0001144204-16-095805&amp;xbrl_type=v</xbrl_href>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-095805</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416095805/0001144204-16-095805-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-04-22 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-095805 &lt;b&gt;Size:&lt;/b&gt; 11 MB</summary>
+      <title>20-F  - Annual and transition report of foreign private issuers [Sections 13 or 15(d)]</title>
+      <updated>2016-04-22T16:07:20-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-087355</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-03-11</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416087355/0001144204-16-087355-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>161499303</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>222 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-087355</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416087355/0001144204-16-087355-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-03-11 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-087355 &lt;b&gt;Size:&lt;/b&gt; 222 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2016-03-11T07:03:54-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-16-000995</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-01-19</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905616000995/0001019056-16-000995-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>161347126</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>117 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-16-000995</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905616000995/0001019056-16-000995-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-01-19 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-16-000995 &lt;b&gt;Size:&lt;/b&gt; 117 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2016-01-19T09:18:34-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-075729</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-01-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416075729/0001144204-16-075729-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>161344009</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>43 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-075729</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416075729/0001144204-16-075729-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-01-15 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-075729 &lt;b&gt;Size:&lt;/b&gt; 43 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2016-01-15T06:00:30-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001144204-16-075211</accession-nunber>
+        <act>34</act>
+        <file-number>001-35216</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-35216&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2016-01-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000114420416075211/0001144204-16-075211-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>161337547</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>32 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001144204-16-075211</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000114420416075211/0001144204-16-075211-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2016-01-12 &lt;b&gt;AccNo:&lt;/b&gt; 0001144204-16-075211 &lt;b&gt;Size:&lt;/b&gt; 32 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2016-01-11T21:57:36-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-15-000960</accession-nunber>
+        <act>34</act>
+        <amend>[Amend]</amend>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2015-12-22</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905615000960/0001019056-15-000960-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <film-number>151300957</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>139 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-15-000960</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905615000960/0001019056-15-000960-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2015-12-22 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-15-000960 &lt;b&gt;Size:&lt;/b&gt; 139 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2015-12-22T09:19:58-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D" />
+      <content type="text/xml">
+        <accession-nunber>0001019056-15-000946</accession-nunber>
+        <act>34</act>
+        <file-number>005-60651</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=005-60651&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2015-12-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/1030471/000101905615000946/0001019056-15-000946-index.htm</filing-href>
+        <filing-type>SC 13D</filing-type>
+        <film-number>151286507</film-number>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>525 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001019056-15-000946</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/1030471/000101905615000946/0001019056-15-000946-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2015-12-14 &lt;b&gt;AccNo:&lt;/b&gt; 0001019056-15-000946 &lt;b&gt;Size:&lt;/b&gt; 525 KB</summary>
+      <title>SC 13D  - General statement of acquisition of beneficial ownership</title>
+      <updated>2015-12-14T16:53:34-05:00</updated>
+    </entry>
+    <id>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001030471</id>
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001030471&amp;owner=exclude&amp;start=0&amp;count=40" rel="alternate" type="text/html" />
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001030471&amp;owner=exclude&amp;start=0&amp;count=40&amp;output=atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001030471&amp;type=&amp;datea=&amp;dateb=&amp;owner=exclude&amp;count=40&amp;output=atom&amp;start=40" rel="next" type="application/atom+xml" />
+    <title>UTSTARCOM HOLDINGS CORP.  (0001030471)</title>
+    <updated>2017-12-19T09:21:49-05:00</updated>
+  </feed>

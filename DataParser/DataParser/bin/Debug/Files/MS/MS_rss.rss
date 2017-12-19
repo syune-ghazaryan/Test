@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <company-info>
+      <addresses>
+        <address type="mailing">
+          <city>NEW YORK</city>
+          <state>NY</state>
+          <street1>1585 BROADWAY</street1>
+          <zip>10036</zip>
+        </address>
+        <address type="business">
+          <city>NEW YORK</city>
+          <phone>212-761-4000</phone>
+          <state>NY</state>
+          <street1>1585 BROADWAY</street1>
+          <zip>10036</zip>
+        </address>
+      </addresses>
+      <assigned-sic>6211</assigned-sic>
+      <assigned-sic-desc>SECURITY BROKERS, DEALERS &amp;amp; FLOTATION COMPANIES</assigned-sic-desc>
+      <assigned-sic-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;SIC=6211&amp;owner=exclude&amp;count=40</assigned-sic-href>
+      <assitant-director>7</assitant-director>
+      <cik>0000895421</cik>
+      <cik-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000895421&amp;owner=exclude&amp;count=40</cik-href>
+      <conformed-name>MORGAN STANLEY</conformed-name>
+      <fiscal-year-end>1231</fiscal-year-end>
+      <formerly-names count="3">
+        <names>
+          <date>1997-05-08</date>
+          <name>DEAN WITTER DISCOVER &amp;amp;amp; CO</name>
+        </names>
+        <names>
+          <date>2002-07-12</date>
+          <name>MORGAN STANLEY DEAN WITTER &amp;amp;amp; CO</name>
+        </names>
+        <names>
+          <date>1998-03-18</date>
+          <name>MORGAN STANLEY DEAN WITTER DISCOVER &amp;amp;amp; CO</name>
+        </names>
+      </formerly-names>
+      <state-location>NY</state-location>
+      <state-location-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;State=NY&amp;owner=exclude&amp;count=40</state-location-href>
+      <state-of-incorporation>DE</state-of-incorporation>
+    </company-info>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012513</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012513/0000950103-17-012513-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171261836</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>403 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012513</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012513/0000950103-17-012513-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-18 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012513 &lt;b&gt;Size:&lt;/b&gt; 403 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-18T16:36:03-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13G" />
+      <content type="text/xml">
+        <accession-nunber>0000895421-17-000488</accession-nunber>
+        <filing-date>2017-12-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000089542117000488/0000895421-17-000488-index.htm</filing-href>
+        <filing-type>SC 13G</filing-type>
+        <form-name>Statement of acquisition of beneficial ownership by individuals</form-name>
+        <size>12 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000895421-17-000488</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000089542117000488/0000895421-17-000488-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-18 &lt;b&gt;AccNo:&lt;/b&gt; 0000895421-17-000488 &lt;b&gt;Size:&lt;/b&gt; 12 KB</summary>
+      <title>SC 13G  - Statement of acquisition of beneficial ownership by individuals</title>
+      <updated>2017-12-18T16:31:57-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13G" />
+      <content type="text/xml">
+        <accession-nunber>0000895421-17-000486</accession-nunber>
+        <filing-date>2017-12-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000089542117000486/0000895421-17-000486-index.htm</filing-href>
+        <filing-type>SC 13G</filing-type>
+        <form-name>Statement of acquisition of beneficial ownership by individuals</form-name>
+        <size>12 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000895421-17-000486</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000089542117000486/0000895421-17-000486-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-18 &lt;b&gt;AccNo:&lt;/b&gt; 0000895421-17-000486 &lt;b&gt;Size:&lt;/b&gt; 12 KB</summary>
+      <title>SC 13G  - Statement of acquisition of beneficial ownership by individuals</title>
+      <updated>2017-12-18T16:12:44-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012508</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012508/0000950103-17-012508-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171261443</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>210 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012508</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012508/0000950103-17-012508-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-18 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012508 &lt;b&gt;Size:&lt;/b&gt; 210 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-18T16:06:57-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012509</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012509/0000950103-17-012509-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171261440</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>300 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012509</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012509/0000950103-17-012509-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-18 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012509 &lt;b&gt;Size:&lt;/b&gt; 300 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-18T16:06:44-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012505</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012505/0000950103-17-012505-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171261189</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>252 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012505</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012505/0000950103-17-012505-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-18 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012505 &lt;b&gt;Size:&lt;/b&gt; 252 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-18T14:59:18-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012499</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012499/0000950103-17-012499-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171260842</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>303 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012499</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012499/0000950103-17-012499-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-18 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012499 &lt;b&gt;Size:&lt;/b&gt; 303 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-18T12:10:30-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012491</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012491/0000950103-17-012491-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171259821</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>448 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012491</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012491/0000950103-17-012491-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012491 &lt;b&gt;Size:&lt;/b&gt; 448 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-15T17:19:54-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012489</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012489/0000950103-17-012489-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171259779</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>247 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012489</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012489/0000950103-17-012489-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012489 &lt;b&gt;Size:&lt;/b&gt; 247 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-15T17:15:41-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012485</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012485/0000950103-17-012485-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171259739</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>261 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012485</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012485/0000950103-17-012485-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012485 &lt;b&gt;Size:&lt;/b&gt; 261 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-15T17:11:24-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012480</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012480/0000950103-17-012480-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171259702</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>240 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012480</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012480/0000950103-17-012480-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012480 &lt;b&gt;Size:&lt;/b&gt; 240 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-15T17:07:17-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012476</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012476/0000950103-17-012476-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171259683</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>213 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012476</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012476/0000950103-17-012476-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012476 &lt;b&gt;Size:&lt;/b&gt; 213 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-15T17:03:07-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012474</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012474/0000950103-17-012474-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171259635</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>196 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012474</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012474/0000950103-17-012474-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012474 &lt;b&gt;Size:&lt;/b&gt; 196 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-15T16:58:59-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012472</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012472/0000950103-17-012472-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171259607</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>329 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012472</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012472/0000950103-17-012472-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012472 &lt;b&gt;Size:&lt;/b&gt; 329 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-15T16:54:50-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012471</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012471/0000950103-17-012471-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171259598</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>504 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012471</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012471/0000950103-17-012471-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012471 &lt;b&gt;Size:&lt;/b&gt; 504 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-15T16:53:50-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012470</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012470/0000950103-17-012470-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171259587</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>393 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012470</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012470/0000950103-17-012470-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012470 &lt;b&gt;Size:&lt;/b&gt; 393 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-15T16:52:00-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012458</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012458/0000950103-17-012458-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171258317</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>308 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012458</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012458/0000950103-17-012458-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012458 &lt;b&gt;Size:&lt;/b&gt; 308 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-15T12:22:26-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012455</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012455/0000950103-17-012455-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171257216</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>392 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012455</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012455/0000950103-17-012455-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012455 &lt;b&gt;Size:&lt;/b&gt; 392 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-14T18:14:11-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012453</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012453/0000950103-17-012453-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171257199</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>555 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012453</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012453/0000950103-17-012453-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012453 &lt;b&gt;Size:&lt;/b&gt; 555 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-14T18:10:29-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012444</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012444/0000950103-17-012444-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171256587</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>528 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012444</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012444/0000950103-17-012444-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-14 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012444 &lt;b&gt;Size:&lt;/b&gt; 528 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-14T16:36:43-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012443</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012443/0000950103-17-012443-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171256576</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>208 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012443</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012443/0000950103-17-012443-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-14 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012443 &lt;b&gt;Size:&lt;/b&gt; 208 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-14T16:35:04-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13G" />
+      <content type="text/xml">
+        <accession-nunber>0000895421-17-000484</accession-nunber>
+        <filing-date>2017-12-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000089542117000484/0000895421-17-000484-index.htm</filing-href>
+        <filing-type>SC 13G</filing-type>
+        <form-name>Statement of acquisition of beneficial ownership by individuals</form-name>
+        <size>12 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000895421-17-000484</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000089542117000484/0000895421-17-000484-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-14 &lt;b&gt;AccNo:&lt;/b&gt; 0000895421-17-000484 &lt;b&gt;Size:&lt;/b&gt; 12 KB</summary>
+      <title>SC 13G  - Statement of acquisition of beneficial ownership by individuals</title>
+      <updated>2017-12-14T16:02:02-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012440</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012440/0000950103-17-012440-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171256065</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>237 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012440</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012440/0000950103-17-012440-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-14 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012440 &lt;b&gt;Size:&lt;/b&gt; 237 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-14T15:30:51-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012433</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012433/0000950103-17-012433-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171255686</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>363 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012433</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012433/0000950103-17-012433-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-14 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012433 &lt;b&gt;Size:&lt;/b&gt; 363 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-14T12:49:30-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012431</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012431/0000950103-17-012431-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171255653</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>190 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012431</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012431/0000950103-17-012431-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-14 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012431 &lt;b&gt;Size:&lt;/b&gt; 190 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-14T12:26:26-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012413</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012413/0000950103-17-012413-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171254595</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>564 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012413</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012413/0000950103-17-012413-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012413 &lt;b&gt;Size:&lt;/b&gt; 564 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-13T17:17:23-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012398</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012398/0000950103-17-012398-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171253159</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>477 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012398</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012398/0000950103-17-012398-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012398 &lt;b&gt;Size:&lt;/b&gt; 477 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-13T10:12:49-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012395</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012395/0000950103-17-012395-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171252789</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>383 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012395</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012395/0000950103-17-012395-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012395 &lt;b&gt;Size:&lt;/b&gt; 383 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-12T19:02:42-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012393</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012393/0000950103-17-012393-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171252773</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>359 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012393</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012393/0000950103-17-012393-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012393 &lt;b&gt;Size:&lt;/b&gt; 359 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-12T18:59:19-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012391</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012391/0000950103-17-012391-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171252744</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>283 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012391</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012391/0000950103-17-012391-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012391 &lt;b&gt;Size:&lt;/b&gt; 283 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-12T18:47:17-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012390</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012390/0000950103-17-012390-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171252701</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>474 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012390</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012390/0000950103-17-012390-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012390 &lt;b&gt;Size:&lt;/b&gt; 474 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-12T18:23:15-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012388</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012388/0000950103-17-012388-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171252687</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>217 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012388</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012388/0000950103-17-012388-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-13 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012388 &lt;b&gt;Size:&lt;/b&gt; 217 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-12T18:18:58-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012377</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012377/0000950103-17-012377-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171252378</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>184 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012377</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012377/0000950103-17-012377-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-12 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012377 &lt;b&gt;Size:&lt;/b&gt; 184 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-12T17:03:51-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012376</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012376/0000950103-17-012376-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171252360</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>150 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012376</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012376/0000950103-17-012376-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-12 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012376 &lt;b&gt;Size:&lt;/b&gt; 150 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-12T17:02:05-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012355</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012355/0000950103-17-012355-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171251502</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>211 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012355</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012355/0000950103-17-012355-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-12 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012355 &lt;b&gt;Size:&lt;/b&gt; 211 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-12T14:13:25-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012354</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012354/0000950103-17-012354-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171251500</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>383 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012354</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012354/0000950103-17-012354-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-12 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012354 &lt;b&gt;Size:&lt;/b&gt; 383 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-12T14:11:42-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012352</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012352/0000950103-17-012352-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171251491</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>22 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012352</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012352/0000950103-17-012352-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-12 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012352 &lt;b&gt;Size:&lt;/b&gt; 22 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-12T14:07:45-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012351</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012351/0000950103-17-012351-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171251489</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>388 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012351</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012351/0000950103-17-012351-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-12 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012351 &lt;b&gt;Size:&lt;/b&gt; 388 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-12T14:07:31-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="FWP" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012349</accession-nunber>
+        <act>34</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012349/0000950103-17-012349-index.htm</filing-href>
+        <filing-type>FWP</filing-type>
+        <film-number>171251480</film-number>
+        <form-name>Filing under Securities Act Rules 163/433 of free writing prospectuses</form-name>
+        <size>20 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012349</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012349/0000950103-17-012349-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-12 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012349 &lt;b&gt;Size:&lt;/b&gt; 20 KB</summary>
+      <title>FWP  - Filing under Securities Act Rules 163/433 of free writing prospectuses</title>
+      <updated>2017-12-12T14:03:50-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="424B2" />
+      <content type="text/xml">
+        <accession-nunber>0000950103-17-012348</accession-nunber>
+        <act>33</act>
+        <file-number>333-221595</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=333-221595&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-12</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/895421/000095010317012348/0000950103-17-012348-index.htm</filing-href>
+        <filing-type>424B2</filing-type>
+        <film-number>171251415</film-number>
+        <form-name>Prospectus [Rule 424(b)(2)]</form-name>
+        <size>225 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000950103-17-012348</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/895421/000095010317012348/0000950103-17-012348-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-12 &lt;b&gt;AccNo:&lt;/b&gt; 0000950103-17-012348 &lt;b&gt;Size:&lt;/b&gt; 225 KB</summary>
+      <title>424B2  - Prospectus [Rule 424(b)(2)]</title>
+      <updated>2017-12-12T13:31:16-05:00</updated>
+    </entry>
+    <id>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000895421</id>
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000895421&amp;owner=exclude&amp;start=0&amp;count=40" rel="alternate" type="text/html" />
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000895421&amp;owner=exclude&amp;start=0&amp;count=40&amp;output=atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000895421&amp;type=&amp;datea=&amp;dateb=&amp;owner=exclude&amp;count=40&amp;output=atom&amp;start=40" rel="next" type="application/atom+xml" />
+    <title>MORGAN STANLEY  (0000895421)</title>
+    <updated>2017-12-19T09:14:34-05:00</updated>
+  </feed>

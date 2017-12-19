@@ -349,6 +349,11 @@ namespace DataParser
 
             return auditorName;
         }
+
+        public string GetRss(string symbol)
+        {
+            return $"https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK={CIK}&CIK={CIK}&type=&dateb=&owner=exclude&start=0&count=40&output=atom";
+        }
          public decimal[] GetIncomes(string filePath)
          {
 
@@ -406,11 +411,11 @@ namespace DataParser
             return incomes;
         }
 
-        public  void DownloadFile(string symbol, string link, string form,string path)
+        public  void DownloadFile(string symbol, string link, string form,string path,string format)
         {
             // Try to create the directory.
             Directory.CreateDirectory(path);
-            string fileName = path + "/" + symbol + "_" + form + ".htm";
+            string fileName = path + @"\" + symbol + "_" + form + format;
             if (link != "")
             {
                 Client.DownloadFile(link, fileName);
@@ -418,7 +423,7 @@ namespace DataParser
                 {
                     Path10k = fileName;
                 }
-                else
+                else if (form == "14_def_a")
                 {
                     Pathdef14a = fileName;
                 }

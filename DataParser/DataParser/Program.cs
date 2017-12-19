@@ -18,7 +18,8 @@ namespace DataParser
         {
             //Manager.YahooInfo();
 
-            Manager.SecInfo();
+            // Manager.SecInfo();
+            Manager.DownloadRss();
             //changes are here ------
             //ExcelConverter.ToCSV();
             //string mk = GetMarketCap(Symbols.CYTR.ToString());

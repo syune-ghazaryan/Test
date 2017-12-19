@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+  <feed xmlns="http://www.w3.org/2005/Atom">
+    <author>
+      <email>webmaster@sec.gov</email>
+      <name>Webmaster</name>
+    </author>
+    <company-info>
+      <addresses>
+        <address type="mailing">
+          <city>CAMBRIDGE</city>
+          <state>X0</state>
+          <street1>1 FRANCIS CRICK AVENUE</street1>
+          <street2>CAMBRIDGE BIOMEDICAL CAMPUS</street2>
+          <zip>CB2 0AA</zip>
+        </address>
+        <address type="business">
+          <city>CAMBRIDGE</city>
+          <phone>011 44 20 7304 5000</phone>
+          <state>X0</state>
+          <street1>1 FRANCIS CRICK AVENUE</street1>
+          <street2>CAMBRIDGE BIOMEDICAL CAMPUS</street2>
+          <zip>CB2 0AA</zip>
+        </address>
+      </addresses>
+      <assigned-sic>2834</assigned-sic>
+      <assigned-sic-desc>PHARMACEUTICAL PREPARATIONS</assigned-sic-desc>
+      <assigned-sic-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;SIC=2834&amp;owner=exclude&amp;count=40</assigned-sic-href>
+      <assitant-director>1</assitant-director>
+      <cik>0000901832</cik>
+      <cik-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000901832&amp;owner=exclude&amp;count=40</cik-href>
+      <conformed-name>ASTRAZENECA PLC</conformed-name>
+      <fiscal-year-end>1231</fiscal-year-end>
+      <formerly-names count="1">
+        <names>
+          <date>1999-02-05</date>
+          <name>ZENECA GROUP PLC</name>
+        </names>
+      </formerly-names>
+      <state-location>X0</state-location>
+      <state-location-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;State=X0&amp;owner=exclude&amp;count=40</state-location-href>
+    </company-info>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-011711</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417011711/0001654954-17-011711-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171260425</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>39 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-011711</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417011711/0001654954-17-011711-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-18 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-011711 &lt;b&gt;Size:&lt;/b&gt; 39 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-12-18T08:51:07-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-011678</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417011678/0001654954-17-011678-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171257768</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>57 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-011678</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417011678/0001654954-17-011678-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-15 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-011678 &lt;b&gt;Size:&lt;/b&gt; 57 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-12-15T08:48:39-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="SC 13D/A" />
+      <content type="text/xml">
+        <accession-nunber>0001193125-17-365993</accession-nunber>
+        <amend>[Amend]</amend>
+        <filing-date>2017-12-11</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000119312517365993/0001193125-17-365993-index.htm</filing-href>
+        <filing-type>SC 13D/A</filing-type>
+        <form-name>General statement of acquisition of beneficial ownership</form-name>
+        <size>58 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001193125-17-365993</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000119312517365993/0001193125-17-365993-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-11 &lt;b&gt;AccNo:&lt;/b&gt; 0001193125-17-365993 &lt;b&gt;Size:&lt;/b&gt; 58 KB</summary>
+      <title>SC 13D/A [Amend]  - General statement of acquisition of beneficial ownership</title>
+      <updated>2017-12-11T12:54:33-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-011233</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-01</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417011233/0001654954-17-011233-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171233410</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>40 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-011233</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417011233/0001654954-17-011233-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-01 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-011233 &lt;b&gt;Size:&lt;/b&gt; 40 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-12-01T12:44:31-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-011232</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-12-01</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417011232/0001654954-17-011232-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171233396</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>31 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-011232</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417011232/0001654954-17-011232-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-12-01 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-011232 &lt;b&gt;Size:&lt;/b&gt; 31 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-12-01T12:38:33-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-011074</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-28</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417011074/0001654954-17-011074-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171224389</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>38 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-011074</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417011074/0001654954-17-011074-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-28 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-011074 &lt;b&gt;Size:&lt;/b&gt; 38 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-28T09:50:05-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-011039</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-27</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417011039/0001654954-17-011039-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171221854</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>37 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-011039</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417011039/0001654954-17-011039-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-27 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-011039 &lt;b&gt;Size:&lt;/b&gt; 37 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-27T06:23:35-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-010682</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417010682/0001654954-17-010682-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171203417</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>52 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-010682</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417010682/0001654954-17-010682-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-15 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-010682 &lt;b&gt;Size:&lt;/b&gt; 52 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-14T18:42:52-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-010338</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-13</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417010338/0001654954-17-010338-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171192881</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>51 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-010338</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417010338/0001654954-17-010338-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-13 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-010338 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-13T06:31:50-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-010262</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-09</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417010262/0001654954-17-010262-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171189336</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>2 MB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-010262</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417010262/0001654954-17-010262-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-09 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-010262 &lt;b&gt;Size:&lt;/b&gt; 2 MB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-09T10:36:21-05:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009892</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-01</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009892/0001654954-17-009892-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171168142</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>30 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009892</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009892/0001654954-17-009892-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-01 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009892 &lt;b&gt;Size:&lt;/b&gt; 30 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-01T12:51:24-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009865</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-01</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009865/0001654954-17-009865-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171167322</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>30 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009865</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009865/0001654954-17-009865-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-01 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009865 &lt;b&gt;Size:&lt;/b&gt; 30 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-01T07:25:15-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009863</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-11-01</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009863/0001654954-17-009863-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171167317</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>41 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009863</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009863/0001654954-17-009863-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-11-01 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009863 &lt;b&gt;Size:&lt;/b&gt; 41 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-11-01T07:17:41-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009831</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-31</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009831/0001654954-17-009831-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171165184</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>57 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009831</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009831/0001654954-17-009831-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-31 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009831 &lt;b&gt;Size:&lt;/b&gt; 57 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-10-31T13:59:51-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009615</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-23</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009615/0001654954-17-009615-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171148292</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>35 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009615</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009615/0001654954-17-009615-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009615 &lt;b&gt;Size:&lt;/b&gt; 35 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-10-23T08:18:14-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009611</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-23</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009611/0001654954-17-009611-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171148224</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>46 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009611</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009611/0001654954-17-009611-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-23 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009611 &lt;b&gt;Size:&lt;/b&gt; 46 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-10-23T06:59:30-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009514</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-18</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009514/0001654954-17-009514-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171141741</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>44 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009514</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009514/0001654954-17-009514-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-18 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009514 &lt;b&gt;Size:&lt;/b&gt; 44 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-10-18T07:06:13-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009490</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-17</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009490/0001654954-17-009490-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171139849</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>44 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009490</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009490/0001654954-17-009490-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009490 &lt;b&gt;Size:&lt;/b&gt; 44 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-10-17T07:24:29-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009244</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-10</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009244/0001654954-17-009244-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171128531</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>40 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009244</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009244/0001654954-17-009244-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-10 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009244 &lt;b&gt;Size:&lt;/b&gt; 40 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-10-10T06:21:30-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-009014</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-10-02</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417009014/0001654954-17-009014-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171113456</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>31 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-009014</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417009014/0001654954-17-009014-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-10-02 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-009014 &lt;b&gt;Size:&lt;/b&gt; 31 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-10-02T11:03:33-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-008806</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-26</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417008806/0001654954-17-008806-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171100867</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>51 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-008806</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417008806/0001654954-17-008806-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-26 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-008806 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-26T07:51:42-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="25-NSE" />
+      <content type="text/xml">
+        <accession-nunber>0000876661-17-000525</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-15</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000087666117000525/0000876661-17-000525-index.htm</filing-href>
+        <filing-type>25-NSE</filing-type>
+        <film-number>171087208</film-number>
+        <form-name>Notification filed by national security exchange to report the removal from listing and registration of matured, redeemed or retired securities</form-name>
+        <size>3 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0000876661-17-000525</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000087666117000525/0000876661-17-000525-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-15 &lt;b&gt;AccNo:&lt;/b&gt; 0000876661-17-000525 &lt;b&gt;Size:&lt;/b&gt; 3 KB</summary>
+      <title>25-NSE  - Notification filed by national security exchange to report the removal from listing and registration of matured, redeemed or retired securities</title>
+      <updated>2017-09-15T10:47:49-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-008444</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417008444/0001654954-17-008444-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171084663</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>37 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-008444</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417008444/0001654954-17-008444-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-14 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-008444 &lt;b&gt;Size:&lt;/b&gt; 37 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-14T08:41:52-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-008297</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-11</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417008297/0001654954-17-008297-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171077961</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>54 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-008297</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417008297/0001654954-17-008297-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-11 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-008297 &lt;b&gt;Size:&lt;/b&gt; 54 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-11T07:50:34-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-008293</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-11</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417008293/0001654954-17-008293-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171077908</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>53 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-008293</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417008293/0001654954-17-008293-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-11 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-008293 &lt;b&gt;Size:&lt;/b&gt; 53 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-11T07:21:55-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-008211</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-07</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417008211/0001654954-17-008211-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171072979</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>42 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-008211</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417008211/0001654954-17-008211-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-008211 &lt;b&gt;Size:&lt;/b&gt; 42 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-07T09:04:10-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-008209</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-07</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417008209/0001654954-17-008209-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171072871</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>46 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-008209</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417008209/0001654954-17-008209-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-008209 &lt;b&gt;Size:&lt;/b&gt; 46 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-07T07:31:17-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-008207</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-07</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417008207/0001654954-17-008207-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171072838</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>48 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-008207</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417008207/0001654954-17-008207-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-07 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-008207 &lt;b&gt;Size:&lt;/b&gt; 48 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-07T06:40:45-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-008107</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-05</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417008107/0001654954-17-008107-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171067373</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>36 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-008107</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417008107/0001654954-17-008107-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-05 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-008107 &lt;b&gt;Size:&lt;/b&gt; 36 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-05T06:38:40-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-008081</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-09-01</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417008081/0001654954-17-008081-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171065598</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>30 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-008081</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417008081/0001654954-17-008081-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-09-01 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-008081 &lt;b&gt;Size:&lt;/b&gt; 30 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-09-01T12:28:15-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-007718</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-08-17</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417007718/0001654954-17-007718-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171038578</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>62 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-007718</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417007718/0001654954-17-007718-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-08-17 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-007718 &lt;b&gt;Size:&lt;/b&gt; 62 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-08-17T15:37:21-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-007646</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-08-16</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417007646/0001654954-17-007646-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171035290</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>35 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-007646</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417007646/0001654954-17-007646-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-08-16 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-007646 &lt;b&gt;Size:&lt;/b&gt; 35 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-08-16T06:46:29-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-007459</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-08-14</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417007459/0001654954-17-007459-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171028473</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>77 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-007459</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417007459/0001654954-17-007459-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-08-14 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-007459 &lt;b&gt;Size:&lt;/b&gt; 77 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-08-14T12:00:15-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-007181</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-08-10</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417007181/0001654954-17-007181-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>171020165</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>36 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-007181</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417007181/0001654954-17-007181-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-08-10 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-007181 &lt;b&gt;Size:&lt;/b&gt; 36 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-08-10T10:38:03-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-006864</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-08-02</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417006864/0001654954-17-006864-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17998440</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>50 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-006864</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417006864/0001654954-17-006864-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-08-02 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-006864 &lt;b&gt;Size:&lt;/b&gt; 50 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-08-02T08:18:40-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-006822</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-08-01</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417006822/0001654954-17-006822-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17995640</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>33 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-006822</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417006822/0001654954-17-006822-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-08-01 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-006822 &lt;b&gt;Size:&lt;/b&gt; 33 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-08-01T11:40:58-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-006807</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-08-01</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417006807/0001654954-17-006807-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17995041</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>47 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-006807</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417006807/0001654954-17-006807-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-08-01 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-006807 &lt;b&gt;Size:&lt;/b&gt; 47 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-08-01T08:07:37-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-006757</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-07-31</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417006757/0001654954-17-006757-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17991831</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>51 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-006757</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417006757/0001654954-17-006757-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-07-31 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-006757 &lt;b&gt;Size:&lt;/b&gt; 51 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-07-31T10:10:58-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-006729</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-07-28</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417006729/0001654954-17-006729-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17988033</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>81 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-006729</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417006729/0001654954-17-006729-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-07-28 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-006729 &lt;b&gt;Size:&lt;/b&gt; 81 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-07-28T09:21:05-04:00</updated>
+    </entry>
+    <entry>
+      <category label="form type" scheme="http://www.sec.gov/" term="6-K" />
+      <content type="text/xml">
+        <accession-nunber>0001654954-17-006703</accession-nunber>
+        <act>34</act>
+        <file-number>001-11960</file-number>
+        <file-number-href>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;filenum=001-11960&amp;owner=exclude&amp;count=40</file-number-href>
+        <filing-date>2017-07-27</filing-date>
+        <filing-href>http://www.sec.gov/Archives/edgar/data/901832/000165495417006703/0001654954-17-006703-index.htm</filing-href>
+        <filing-type>6-K</filing-type>
+        <film-number>17985639</film-number>
+        <form-name>Report of foreign issuer [Rules 13a-16 and 15d-16]</form-name>
+        <size>43 KB</size>
+      </content>
+      <id>urn:tag:sec.gov,2008:accession-number=0001654954-17-006703</id>
+      <link href="http://www.sec.gov/Archives/edgar/data/901832/000165495417006703/0001654954-17-006703-index.htm" rel="alternate" type="text/html" />
+      <summary type="html"> &lt;b&gt;Filed:&lt;/b&gt; 2017-07-27 &lt;b&gt;AccNo:&lt;/b&gt; 0001654954-17-006703 &lt;b&gt;Size:&lt;/b&gt; 43 KB</summary>
+      <title>6-K  - Report of foreign issuer [Rules 13a-16 and 15d-16]</title>
+      <updated>2017-07-27T14:17:32-04:00</updated>
+    </entry>
+    <id>http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000901832</id>
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000901832&amp;owner=exclude&amp;start=0&amp;count=40" rel="alternate" type="text/html" />
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000901832&amp;owner=exclude&amp;start=0&amp;count=40&amp;output=atom" rel="self" type="application/atom+xml" />
+    <link href="http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0000901832&amp;type=&amp;datea=&amp;dateb=&amp;owner=exclude&amp;count=40&amp;output=atom&amp;start=40" rel="next" type="application/atom+xml" />
+    <title>ASTRAZENECA PLC  (0000901832)</title>
+    <updated>2017-12-19T09:20:23-05:00</updated>
+  </feed>
