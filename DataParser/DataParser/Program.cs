@@ -18,8 +18,10 @@ namespace DataParser
         {
             //Manager.YahooInfo();
 
-            // Manager.SecInfo();
-            Manager.DownloadRss();
+            Manager.SecInfo();
+            //Manager.DownloadRss();
+            //const string quote = "\"";
+           // Manager.GetFilesByMatchedName("Brad D. Smith");
             //changes are here ------
             //ExcelConverter.ToCSV();
             //string mk = GetMarketCap(Symbols.CYTR.ToString());
@@ -30,5 +32,6 @@ namespace DataParser
             //Manager.MergeExcel();
         }
        
+    
     }
 }

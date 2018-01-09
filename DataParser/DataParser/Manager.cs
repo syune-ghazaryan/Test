@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 using Microsoft.Office.Interop.Excel;
 using System.Runtime.InteropServices;
 using Excel = Microsoft.Office.Interop.Excel;
+using HtmlAgilityPack;
+using System.Text.RegularExpressions;
+using System.Net;
+
 namespace DataParser
 {
     public class Manager
@@ -18,7 +22,7 @@ namespace DataParser
                                     .Cast<Symbols>()
                                     .ToList();
             int count = symbols.Count;
-           // int intervals = count / CompanyCount;
+            int intervals = count / CompanyCount;
            
             //for (int i =0; i <intervals; ++i )
             //{
@@ -31,13 +35,13 @@ namespace DataParser
                 Console.WriteLine(xlWb.Path);
                 Worksheet xlSheet = xlWb.Sheets[1] as Worksheet;
                 ExcelConverter.WriteArray(xlSheet, list);
-                xlWb.SaveAs(@"C:\Users\User\source\repos\DataParser\DataParser\bin\Debug\excel\" + $"rss.xlsx");
+                xlWb.SaveAs(Environment.CurrentDirectory + @"\Companies.xlsx");
                 xlWb.Close();
                 xlApp.Quit();
                 Console.WriteLine("Ready!");
            
                
-            //}
+           // }
         }
 
         public static void YahooInfo()
@@ -186,6 +190,38 @@ namespace DataParser
                 }
             }
          
+        }
+        /// <summary>
+        /// Download files with mentioned name
+        /// </summary>
+        /// <param name="name">Person Name</param>
+        public static void GetFilesByMatchedName(string name)
+        {
+            string url = $"https://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp?search_text=%22{name}%22&sort=ReverseDate&formType=FormDEF14A&isAdv=true&stemming=true&numResults=10&numResults=10";
+            HtmlWeb web = new HtmlWeb();
+            var htmlDoc = web.Load(url);
+            var nodes = htmlDoc.DocumentNode.SelectNodes("//a");
+            foreach(var node in nodes )
+            {
+                if(node.Attributes.Contains("id") && node.Id=="viewFiling" && node.HasClass("filing"))
+                {
+                    string pattern = @"(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?";
+                    string str = node.Attributes["href"].Value;
+                    string val = Regex.Match(str, pattern).Value;
+                    Console.WriteLine(val);
+                    string pat = @"(\d|\w)*(\.htm)";
+                    string filename = Regex.Match(val, pat).Value;
+                    string path = Environment.CurrentDirectory + $"\\Names\\{name.Replace(" ", "")}";
+                
+                    Directory.CreateDirectory(path);
+                    string fileName = path + @"\" + filename.Replace(@"\","");
+                    if (val != "")
+                    {
+                        WebClient client = new WebClient();
+                        client.DownloadFile(val, fileName);
+                    }
+                }
+            }
         }
 
     }

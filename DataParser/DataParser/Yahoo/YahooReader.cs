@@ -177,7 +177,7 @@ namespace DataParser
             {
                 return list;
             }
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < fiscalYears.Count; i++)
             {
                 YahooFinancials fin = new YahooFinancials
                 {
